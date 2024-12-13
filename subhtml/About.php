@@ -19,16 +19,16 @@
         <nav class="navbar bg-body-tertiary">
           <div class="container-fluid d-flex justify-content-start" >
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="../index.html">Home</a>
+              <a class="navbar-brand" href="../index.php">Home</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="./Works.html">Works</a>
+              <a class="navbar-brand" href="./Works.php">Works</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="./Output.html">Output</a>
+              <a class="navbar-brand" href="./Output.php">Output</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="./About.html">About</a>
+              <a class="navbar-brand" href="./About.php">About</a>
             </button>
           </div>
         </nav>

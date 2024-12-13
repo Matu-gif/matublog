@@ -19,16 +19,16 @@
         <nav class="navbar bg-body-tertiary">
           <div class="container-fluid d-flex justify-content-start" >
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="subhtml/Home2.html">Home</a>
+              <a class="navbar-brand" href="../index.php">Home</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="subhtml/Works.html">Works</a>
+              <a class="navbar-brand" href="./Works.php">Works</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="subhtml/Output.html">Output</a>
+              <a class="navbar-brand" href="./Output.php">Output</a>
             </button>
             <button type="button" class="btn btn-light">
-              <a class="navbar-brand" href="subhtml/About.html">About</a>
+              <a class="navbar-brand" href="./About.php">About</a>
             </button>
           </div>
         </nav>
@@ -37,7 +37,7 @@
       <!-- title -->
       <div class="row">
         <div class="d-flex justify-content-center">
-          <h3>Home</h3>
+          <h3>Output</h3>
         </div>
       </div>
 
@@ -69,7 +69,7 @@
         </div>
       </div>
 
-      <!-- 記事移動ボタン 
+      <!-- 記事移動ボタン
       <div class="row">
         <nav aria-label="Page navigation example">
           <div class="d-flex justify-content-center">
